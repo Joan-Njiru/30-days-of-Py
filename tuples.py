@@ -43,8 +43,10 @@ food_stuff_lt.pop(mid)
 print(food_stuff_lt)
 
 #Slice out the first three items and the last three items from food_staff_lt list
-#food_stuff_lt[0:4]
+print(food_stuff_lt[0:4])
 #print(food_stuff_lt)
+
+
 
 #Delete the food_staff_tp tuple completely
 del food_stuff_tp
